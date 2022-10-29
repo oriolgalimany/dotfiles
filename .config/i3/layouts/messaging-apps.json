@@ -1,0 +1,26 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 1,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1058,
+       "width": 958,
+       "x": 2880,
+       "y": 0
+    },
+    "marks": [],
+    "name": "Ferdi - WhatsApp - WhatsApp",
+    "percent": 1,
+    "swallows": [
+       {
+       "class": "^Ferdi$",
+       "instance": "^ferdi$",
+       "machine": "^oriolarch$",
+       "title": "^Ferdi\\ \\-\\ WhatsApp\\ \\-\\ WhatsApp$",
+       "window_role": "^browser\\-window$"
+       }
+    ],
+    "type": "con"
+}
+
